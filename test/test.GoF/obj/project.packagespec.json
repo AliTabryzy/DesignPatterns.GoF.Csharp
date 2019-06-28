@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/king/RiderProjects/DesignPatterns.GoF.Csharp/src/GoF/GoF.csproj": {
+            "projectPath": "/home/king/RiderProjects/DesignPatterns.GoF.Csharp/src/GoF/GoF.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
